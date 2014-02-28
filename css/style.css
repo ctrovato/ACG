@@ -10,10 +10,10 @@ background:  url("../images/subtle-wood.gif") repeat center fixed;
 
 
 #wrapper {
-        width: 96%;
+        width: 100%;
         margin:  auto;
         border: 1px gray solid ; 
-        border-radius: 5px;
+        border-radius: 0px;
         box-shadow: 0px 0px 10px #000;
         padding: 0px;
         font-style: normal;
@@ -24,9 +24,9 @@ background:  url("../images/subtle-wood.gif") repeat center fixed;
 } 
 
 .WS {
-        margin: 2%;
+        margin: 0%;
         border-radius: 5px;
-        padding: 1px;
+        padding: 5px;
 
 }
 
